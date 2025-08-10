@@ -2,7 +2,7 @@
 <img src="https://img.icons8.com/?size=512&id=55494&format=png" align="right" width="30%" style="margin: -20px 0 0 20px;">
 <h1>VALOTANT</h1>
 <p align="left">
-	<em><code>❯ REPLACE-ME</code></em>
+	<em><code>❯ An immersive web experience that brings the agents of Valorant to life. Explore every agent in a stunning neon glass UI, complete with dynamic animations and interactive effects designed to capture the high-tech, stylish world of the game.</code></em>
 </p>
 <p align="left">
 	<img src="https://img.shields.io/github/license/Astro-Saurav/Valotant?style=for-the-badge&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
@@ -48,13 +48,23 @@
 
 ## 📍 Overview
 
-<code>❯ REPLACE-ME</code>
+<code>❯ This project is a high-fidelity, interactive showcase designed as a tribute to the iconic agents of Valorant. Built with a modern tech stack including React, TypeScript, and Framer Motion, it offers a seamless single-page experience.
+From the moment you land on the page, you're greeted with a dynamic, auto-playing hero section that cycles through different agents, changing the entire page's theme in real-time to match the featured character.
+Users can seamlessly scroll down to explore a detailed agent overview with an interactive 3D card effect, or jump to a complete grid of all agents. Clicking on any agent reveals a modal with their full backstory and ability kit. The entire experience is enhanced with a custom, theme-aware cursor and subtle visual effects, all wrapped in a sleek, responsive design that looks great on any device.
+</code>
 
 ---
 
 ## 👾 Features
 
-<code>❯ REPLACE-ME</code>
+<code>❯ Dynamic Hero Carousel: The landing page features a full-screen, auto-playing carousel that cycles through Valorant agents, dynamically theming the entire page in real-time.
+Interactive 3D Agent Cards: Agent profiles tilt and respond to mouse movement with a subtle 3D parallax effect, creating an engaging, tactile feel.
+Complete Agent Database: Browse a comprehensive grid of all playable agents. Clicking an agent opens a beautifully animated modal with their detailed biography and a full list of abilities.
+Themed Custom Cursor: A custom-rendered cursor follows your mouse, changing color to match the currently featured agent’s theme, enhancing the immersive experience.
+Fluid Animations & Transitions: Built with Framer Motion, the entire interface is full of seamless page transitions, staggered animations, and responsive interactions that make the UI feel alive.
+Auto-Hiding Header: The navigation bar smoothly hides when you scroll down and reappears when you scroll up, maximizing screen real estate for content.
+Dark/Light Theme Toggle: A sleek, animated toggle allows users to instantly switch between a polished dark and light theme.
+True Single-Page Experience: Smooth, anchor-based scrolling provides a fast, seamless journey through all content sections without page reloads, all powered by React Router.</code>
 
 ---
 
