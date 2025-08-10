@@ -212,9 +212,3 @@ Run the test suite using the following command:
 This project is protected under the [MIT-LICENSE](https://github.com/Astro-Saurav/Valotant?tab=MIT-1-ov-file).
 
 ---
-
-## 🙌 Acknowledgments
-
-- List any resources, contributors, inspiration, etc. here.
-
----
