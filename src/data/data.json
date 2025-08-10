@@ -5,7 +5,6 @@
     "canonical": "/"
   },
   "navigation": [
-    {  "href": "/index" },
     { "label": "Home", "href": "/" },
     { "label": "All Agents", "href": "#all-agents" },
     { "label": "Overview", "href": "#overview" }
